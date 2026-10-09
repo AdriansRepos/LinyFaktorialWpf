@@ -1,7 +1,7 @@
 ﻿<Window x:Class="LinyFaktorialWpf.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Title="Líný Faktoriál 2.0 (Ultra Fňuk WPF)" Height="500" Width="480"
+        Title="Líný Faktoriál 1.0 (Ultra Fňuk WPF)" Height="500" Width="480"
         WindowStartupLocation="CenterScreen" Background="#2D2D30">
 
     <Grid Margin="20">
