@@ -79,3 +79,19 @@ Projekt je licencován pod FňukLicense 1.0:
 - Plynulý asynchronní ProgressBar simulující přemýšlení.
 - Zachován víkendový režim, únava po 3 výpočtech a paměť výsledků (Dictionary<int, int>).
 [Stáhnout zde](https://github.com/AdriansRepos/LinyFaktorialWpf/releases/tag/v1.0)
+
+---
+
+### 📸 Ukázky aplikace
+
+#### Start aplikace
+
+![Start aplikace](LinyFaktorialWpf/Assets/start.png)
+
+#### Počítání faktoriálu
+
+![Počítání faktoriálu](LinyFaktorialWpf/Assets/pocitani.png)
+
+#### Výsledek výpočtu
+
+![Výsledek výpočtu](LinyFaktorialWpf/Assets/vysledek.png)
